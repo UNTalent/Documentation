@@ -14,6 +14,10 @@ Remote (home-based) jobs only:
 https://untalent.org/api/v1/homebased
 ```
 
+### Authentication
+
+To authenticate, use the `token` parameter in your url, for instance `?token=YOUR:TOKEN`. It should be sent with every url.
+
 ### Filters
 
 To add a filter, use query parameters, for instance `?locationSlugs=geneva&areaSlugs=human-resources`
