@@ -2,6 +2,8 @@
 
 Our API is free with a fair use, at your own risk. Attribution is welcome, ideally with direct links to the job offers hosted on untalent.org.
 
+[Terms are available here](Terms.md)
+
 ## Jobs API endpoints
 
 All the jobs, including home-based positions, are available on this endpoint:
