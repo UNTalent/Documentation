@@ -29,6 +29,13 @@ All the filters can be combined. The separator `+` can be used for multiple tags
 * `areaSlugs`: the slug version of the work area, for instance `human-resources`, `innovation`
 * `levelSlugs`: the level of the contract, for instance `mid`, `consulting`, `volunteer`, `senior`
 
+### Fields
+
+`slug` can be used as the identifier.
+`title`, `url` and `company` are always present. Other fields are not always there
+
+> **Warning** Keep in mind that `expire_at` might be missing.
+
 
 ### Pagination
 
